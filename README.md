@@ -32,7 +32,7 @@
 
 ## 📹 Project Link Youtube
 
-[![IMAGE ALT TEXT](https://i.hizliresim.com/nm1gvsy.jp)](https://www.youtube.com/watch?v=pb1LftbptIc"MERN PROJECT")
+[![MERN](https://i.hizliresim.com/lnriuer.jpg)](https://www.youtube.com/watch?v=pb1LftbptIc "Mern Project")
 
 
 
