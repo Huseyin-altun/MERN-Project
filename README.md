@@ -30,11 +30,6 @@
 #### Register
 <img src="https://i.hizliresim.com/1g6bh1y.jpg"  width="750"/><br>
 
-## 📹 Project Link Youtube
-
-[![MERN](https://i.hizliresim.com/lnriuer.jpg)](https://www.youtube.com/watch?v=pb1LftbptIc "Mern Project")
-
-
 
 
 
